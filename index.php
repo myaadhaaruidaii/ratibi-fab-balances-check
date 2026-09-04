@@ -6,7 +6,8 @@
     <title>Ratibi FAB Balance Check Salary Card Online</title>
     <meta name="description" content="Need to do a ratibi fab balance check? This easy guide shows you 4 ways to check your FAB salary card balance online, by SMS, or at an ATM.">
     <meta name="robots" content="index, follow">
-    <link rel="canonical" href="https://fab-salary-balance-check.pages.dev/">
+    <meta name="google-site-verification" content="vGXs_kuh9qxlIdvyhqmuotSivqCdqIWAQS1YaNpwVMg" />
+    <link rel="canonical" href="https://ratibi-fab-balances-check-0899ab926ade.herokuapp.com/">
     <style>
         * {
             margin: 0;
